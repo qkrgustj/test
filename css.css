@@ -1,0 +1,27 @@
+
+div {
+  text-align: center;
+  background-color: black;
+  padding: 10px;
+}
+h1 {
+  color: salmon;
+}
+h2 {
+  color: white;
+}
+button {
+  margin: 20px;
+  background-color: pink;
+  font-size: 30px;
+  width: 60px;
+  border-radius: 10px;
+  border: 2px solid white;
+}
+button:hover {
+  background-color: red;
+  cursor: pointer;
+}
+button:active {
+  background-color: pink;
+}
